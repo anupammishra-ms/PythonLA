@@ -1,0 +1,10 @@
+2025-01-20 23:00:27,382 - DEBUG - app.py:31 - This is a debug message
+2025-01-20 23:00:27,382 - INFO - app.py:32 - This is an info message
+2025-01-20 23:00:27,383 - WARNING - app.py:33 - This is a warning message
+2025-01-20 23:00:27,383 - ERROR - app.py:34 - This is an error message
+2025-01-20 23:00:27,383 - CRITICAL - app.py:35 - This is a critical message
+2025-01-20 23:00:39,215 - DEBUG - app.py:31 - This is a debug message
+2025-01-20 23:00:39,216 - INFO - app.py:32 - This is an info message
+2025-01-20 23:00:39,217 - WARNING - app.py:33 - This is a warning message
+2025-01-20 23:00:39,217 - ERROR - app.py:34 - This is an error message
+2025-01-20 23:00:39,218 - CRITICAL - app.py:35 - This is a critical message
